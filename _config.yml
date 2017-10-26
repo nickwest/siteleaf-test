@@ -5,6 +5,8 @@ collections:
   people:
     title: People
     output: true
+    first_name: First
+    last_name: Last
   posts:
     title: Posts
     output: true
