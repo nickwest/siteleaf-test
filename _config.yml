@@ -2,6 +2,9 @@
 title: TestSite
 timezone: UTC
 collections:
+  dynamic:
+    title: Dynamic
+    output: true
   people:
     title: People
     output: true
