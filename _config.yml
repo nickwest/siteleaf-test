@@ -5,6 +5,7 @@ collections:
   people:
     title: People
     output: true
+    Field name: first_name
   posts:
     title: Posts
     output: true
